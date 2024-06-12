@@ -7,6 +7,7 @@ const ToDoItem = ({ taskItem }) => {
             <div className="row">
                 <div className="col-md-2  d-flex align-items-center">
                     <img
+                        width="150"
                         src={taskImageUrl}
                         className="img-fluid rounded-start"
                         alt="Task"

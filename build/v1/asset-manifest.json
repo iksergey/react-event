@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-event/build/v1/static/js/main.ed585ebe.js",
+    "index.html": "/react-event/build/v1/index.html",
+    "main.ed585ebe.js.map": "/react-event/build/v1/static/js/main.ed585ebe.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ed585ebe.js"
+  ]
+}

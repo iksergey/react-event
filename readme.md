@@ -1,6 +1,6 @@
 # Буткемп
 
-### Преобретая буткемп по [ЭТОЙ ССЫЛКЕ](https://stepik.org/a/197191/pay?promo=5749ef0badb40674&utm_source=github.com&utm_medium=react_event&utm_campaign=narodny_course&utm_term=first) вы получаете приятную скидку
+### Преобретая буткемп по [ЭТОЙ ССЫЛКЕ](https://stepik.org/a/197191/pay?promo=51f2e70c7ce4b640&utm_source=github.com&utm_medium=react_event&utm_campaign=narodny_course&utm_term=first) вы получаете приятную скидку
 
 ### О буткемпе
 
@@ -17,11 +17,13 @@
 
 Репозиторий представляет собой часть учебного курса по фулстек разработке, он охватывает технологии и языки программирования, такие как C#, JavaScript, Docker, SQL, React.JS, Git, HTML, CSS, Bootstrap, Markdown, LaTeX, основы математики и алгоритмов.
 
-Преобретая буткемп по [ЭТОЙ ССЫЛКЕ](https://stepik.org/a/197191/pay?promo=5749ef0badb40674&utm_source=github.com&utm_medium=react_event&utm_campaign=narodny_course&utm_term=second) вы получаете приятную скидку
+Преобретая буткемп по [ЭТОЙ ССЫЛКЕ](https://stepik.org/a/197191/pay?promo=51f2e70c7ce4b640&utm_source=github.com&utm_medium=react_event&utm_campaign=narodny_course&utm_term=second) вы получаете приятную скидку
 
 ---
 
-## Буткемп "Записки юного программиста"
+## Буткемп 
+
+[Просмотр](https://iksergey.github.io/react-event/build/v2)
 
 ### Откройте для себя мир fullstack-разработки с интенсивным курсом!
 
